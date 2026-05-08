@@ -35,3 +35,7 @@ Démontre comment une application peut envoyer ses propres événements internes
     ```bash
     adb shell am broadcast -a android.intent.action.BOOT_COMPLETED
     ```
+
+
+
+[Screen_recording_20260508_160616.webm](https://github.com/user-attachments/assets/da731d4a-247f-48dc-9aea-c88cb9777ee9)
